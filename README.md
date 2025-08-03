@@ -97,4 +97,4 @@ The dataset used is the UCI Heart Disease Dataset, containing 303 samples and 14
 ---
 
 ## 📌 Author
-Moataz Nagah
+Moataz Nageh
